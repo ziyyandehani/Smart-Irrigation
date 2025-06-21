@@ -1,1 +1,3 @@
-#kkk  
+{
+  "body": "{\"rawsuhu1\": 25, \"rawsuhu2\": 26, \"rawsuhu3\": 27, \"finalsuhu\": 26, \"rawhum1\": 60, \"rawhum2\": 61, \"rawhum3\": 59, \"finalhum\": 60, \"rawsoil1\": 300, \"rawsoil2\": 320, \"rawsoil3\": 310, \"finalsoil\": 310, \"suhuA\": 28, \"humidA\": 65, \"anginA\": 3.4, \"hujanA\": 1.2, \"waktu\": \"2025-06-01 12:00:00\"}"
+}
